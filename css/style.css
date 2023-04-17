@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0a9396;
+    padding: 0.5rem 1rem;
+}
+
+nav ul li a:hover {
+    color: #005f73;
+    background-color: #94d2bd;
+    padding: 0.5rem 1rem;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #0a9396;
+}
+
+footer {
+    padding: 3rem;
+}
+
+.social-icons a {
+    padding: 0.5rem 1rem;
+}
